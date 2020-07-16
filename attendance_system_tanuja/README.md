@@ -5,8 +5,7 @@ Hi there! , this is a  project made by Tanuja Kumari (2K18/CO/370) during my sum
 1. **Detection**
 2. **Recognition**
 3. **Updating record in Excel**
-4. **Managing students data and faculty data through excel by the help of GUI**
-5. **Notifying students and teachers about attendance statistics via email**
+4. **Managing office employeesw data and faculty data through excel by the help of GUI**
 
 ## - **Detection**
 
