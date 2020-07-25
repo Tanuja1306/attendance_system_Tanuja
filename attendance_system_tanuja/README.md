@@ -1,11 +1,11 @@
 # **Attendance System by Face Recognition**
 
-Hi there! , this is a  project made by Tanuja Kumari (2K18/CO/370) during my summer training at GCNEP haryana under the guidance of Mr.Ashish Thakur sir , as heading says the aim is to detect ,recognize and mark attendance by face recognition but the project has a lot more objctives:
+Hi there! , this is a  project made by Tanuja Kumari (2K18/CO/370) during my summer training , as heading says the aim is to detect ,recognize and mark attendance by face recognition but the project has a lot more objctives:
 
 1. **Detection**
 2. **Recognition**
 3. **Updating record in Excel**
-4. **Managing office employeesw data and faculty data through excel by the help of GUI**
+4. **Managing office employees data and faculty data through excel by the help of GUI**
 
 ## - **Detection**
 
