@@ -246,3 +246,4 @@ quitWindow.place(x=700, y=735-y_cord)
  
 window.mainloop()
 # Commit on 2023-05-20
+# Commit on 2023-10-03
